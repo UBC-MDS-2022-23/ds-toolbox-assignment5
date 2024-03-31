@@ -1,0 +1,3 @@
+# Definition: git status
+`git status` helps to track status of files using terminal. The files could be "Untracked", "Changed", or "Staged". This command helps the user to continue on their workflow by providing imformation on tracking status. For exampels if files are changed but not staged, the user would need to perform `git add <<file name>>` or `git add .` (adding multiple files) to add the files to staging area before proceeding with commit.
+On JupyterLab IDE on the left side panel the "Changes" tab shows the "Staged", "Changed" and "Untracked" files.
