@@ -1,0 +1,2 @@
+Definition: git status
+By using this command, you can check the working tree status, and the status of files in your repository- whether they are untracked, changed, staged etc. It also gives information on commands to use to continue your workflow. In JupyterLab IDE, you can access this information under 'Staged', 'Changed', 'Untracked', etc.
