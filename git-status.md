@@ -1,0 +1,4 @@
+# Definition: git status
+The command git status is useful for seeing the status of a local repository, in terms of whether or not the local repository has new or modified files that are not in synch with what is in the remote repository (from the last pull of the remote repository). It also allows the user to know whether or not the local repository is ahead or behind the remote repository in terms of number of commits, or if everything is up to date.  It also allows the user to see which branch the user is currently working on.
+
+The same information provided by this command can be viewed on Jupyter Lab by clicking on the side "Git" tab on the left and seeing the items under "Staged", "Changed", "Untracked", and "Stash" to see what items are in each category. The user's current branch is also displayed on this tab at the top.
