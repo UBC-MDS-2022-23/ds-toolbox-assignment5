@@ -1,0 +1,2 @@
+# Definition: git status
+**git status** is a command used in terminal to check status of all files in your repository regarding whether they are staged, changed from the remote or not tracked in remote. It corresponds to Jupyter Lab side panel that shows which files are staged, changed and untracked. An advantage of using this command via terminal is that it gives you information on which commands you should use next.
