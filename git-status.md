@@ -1,0 +1,5 @@
+Definition: git status
+
+Using git status shows the current status of the repository branch you are working in, as it compares to the remote repository. It shows you if changes has been made in the files since the last commit, if changes have been staged, if you have new untracked files, and if there are commits that haven't been pushed to the remote repository yet. Specifically, it is useful for understanding what changes you have made since your last pull from the remote repository and if you are ahead or behind the remote repository.
+
+In juputer lab, you can do find the same information by going to the Git side bar, and looking at the changes under different branches, and if there are files in the staged, changed, or untracked sections. You can also see if you are ahead or behind the remote repository indicated by the orange circles on the cloud icons at the top (for pulling and pushing). 
