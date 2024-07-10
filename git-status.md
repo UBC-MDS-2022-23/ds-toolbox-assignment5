@@ -1,0 +1,2 @@
+# Definition: Git status
+The command git status gives you the information if your local repository is up to date with the remote one. That is, if you need to pull changes from other users, or commit and push changes made by yourself. You can access the same information on Jupyter IDE via the Git plug in. Additionally, what I am doing is accessing this information via the git desktop app.
