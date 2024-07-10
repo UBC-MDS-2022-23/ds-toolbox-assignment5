@@ -1,0 +1,2 @@
+# Definition: git status
+This command tells you the status of your local repo and anything that you have staged. It will let you know if there are changes made that need to be staged and/or commited. It will also let you know if there are untracked files. In Jupyter IDE you can access the same information in the Changes tab of Git.
