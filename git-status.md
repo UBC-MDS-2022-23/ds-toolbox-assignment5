@@ -1,0 +1,3 @@
+Definition: git status
+git status command is used to show the current state of the working directory and the staging area, including changes in working directory and staging area, untracked files and branching information.
+If we are using the JupyterLab IDE instead of the terminal, we can access the same information by using the git panels to see the graphical interface of status under repository. 
