@@ -1,0 +1,2 @@
+Definition: git status
+The git status command is used to display the state of the working directory and the staging area. It shows which changes have been staged, which have not, and which files are not being tracked by Git. This command is important for understanding the current status of your project and for making informed decisions about your next steps.
