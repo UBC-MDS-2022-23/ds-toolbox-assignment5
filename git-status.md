@@ -1,0 +1,3 @@
+# Definition: git status
+The git status command is useful for seeing the status of all the files in the repository. It can show the changes that have been staged, what remains to be staged, as well as the files that still remain untracked. 
+If using Jupyter Lab IDE instead of the terminal, you can access the same information on the left panel by clicking on the Git button, which will pop up a window that shows status off all the files. 
