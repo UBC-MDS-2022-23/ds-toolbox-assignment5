@@ -1,0 +1,2 @@
+# Definition: git status
+Git Status checks to see what modifications that have been made since the last time there has been a commit. It will show what is the state of the working directory and the staging area. This information is also provided real time in the Git column of the jupyter IDE.
