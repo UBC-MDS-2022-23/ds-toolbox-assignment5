@@ -1,0 +1,5 @@
+# Definition git status
+
+`git status` is a command that shows you the current state of your repository. Depending on the state, it will provide information about untracked files, changed files (that are not stages), and staged files that are ready for commit. It also provides information about which branch you're on and where your local branch is compared to the remote branch.  
+
+When using the JupyterLab IDE, you can get the same information that `git status` provides from the Github extension. By clicking on the extension you can see which files are untracked, changes, and staged. Your current branch is also displayed prominently in the github panel. You can see if you're behind your remote or ahead by hovering over the pull icon until the tooltip appears, or you can hover over the push icon to see if commits are ready to push to remote.
