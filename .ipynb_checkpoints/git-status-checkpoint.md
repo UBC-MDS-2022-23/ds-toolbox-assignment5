@@ -1,0 +1,1 @@
+The `git status` command shows the current state of the working directory and staging area. It helps you understand what changes have been staged, which files are modified but not staged, and which files are not being tracked by Git.
