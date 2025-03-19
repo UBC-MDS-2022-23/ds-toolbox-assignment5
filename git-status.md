@@ -1,0 +1,3 @@
+# Definition: git status
+`git status` is a terminal commit that shows the state of our current working directory and staging area. It tells us what branch we currently are working on, any changes needed to be staged, commited, pushed or pulled.
+When using JupyterLab IDE instead of the terminal, we can click on the Git icon on the left side bar of JupyterLab, and access the same information on the panel. We can see changes and branches and deal with them on the panel.
