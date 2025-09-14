@@ -1,0 +1,1 @@
+Git-status is an important command! It displays the status of the project, including the unstaged/staged changes and branch information. I really like git-status to make sure all the files are added "staged" for my commit. I can see a similar summary using the Git tab in Juptyer Lab. 
