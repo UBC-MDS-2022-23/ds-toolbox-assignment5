@@ -1,0 +1,3 @@
+#Definition: **git status**
+- The git status command shows the current state of my local working directory and staging area. It tells me which files are untracked, which files have changes that are staged and ready to be committed, and which files have been modified but not yet staged. It's an overview of what Git will include in the next commit and what is still pending.  
+- In JupyterLab, I can access the same information by opening the Git extension panel on the lefthand side (click the icon). The panel displays a list of changed, staged, and untracked files, similar to the categories shown by git status in the terminal.
