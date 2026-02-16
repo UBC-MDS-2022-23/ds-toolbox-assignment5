@@ -1,0 +1,2 @@
+Definition: git status
+The `git status` command is used to show the current state of files in the working directory compared to the staging area and last commit. The command is useful to indicate files that have been modified or created since the last commit. The information from the `git status` command can be accessed in the Changes tab within Jupyter's version of Git.
